@@ -1,0 +1,8 @@
+prefix=/home/zeged/catkin_ws/devel
+
+Name: laser_Values
+Description: Description of laser_Values
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zeged/catkin_ws/devel/lib 
+Requires: 

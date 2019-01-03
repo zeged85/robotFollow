@@ -1256,6 +1256,18 @@ kinect2_viewer_BINARY_DIR:STATIC=/home/zeged/catkin_ws/build/armadillo2/armadill
 //Value Computed by CMake
 kinect2_viewer_SOURCE_DIR:STATIC=/home/zeged/catkin_ws/src/armadillo2/armadillo2_utils/iai_kinect2/kinect2_viewer
 
+//Value Computed by CMake
+laser_Values_BINARY_DIR:STATIC=/home/zeged/catkin_ws/build/laser_values
+
+//Value Computed by CMake
+laser_Values_SOURCE_DIR:STATIC=/home/zeged/catkin_ws/src/laser_values
+
+//Value Computed by CMake
+laser_values_BINARY_DIR:STATIC=/home/zeged/catkin_ws/build/laser_values
+
+//Value Computed by CMake
+laser_values_SOURCE_DIR:STATIC=/home/zeged/catkin_ws/src/laser_values
+
 //Path to a library.
 lib:FILEPATH=/opt/ros/kinetic/lib/libcontroller_manager.so
 
@@ -1665,7 +1677,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=37
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=38
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

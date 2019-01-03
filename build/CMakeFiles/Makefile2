@@ -3187,6 +3187,24 @@ follow-me/preinstall:
 .PHONY : follow-me/preinstall
 
 #=============================================================================
+# Directory level rules for directory laser_values
+
+# Convenience name for "all" pass in the directory.
+laser_values/all:
+
+.PHONY : laser_values/all
+
+# Convenience name for "clean" pass in the directory.
+laser_values/clean:
+
+.PHONY : laser_values/clean
+
+# Convenience name for "preinstall" pass in the directory.
+laser_values/preinstall:
+
+.PHONY : laser_values/preinstall
+
+#=============================================================================
 # Directory level rules for directory armadillo2/armadillo2
 
 # Convenience name for "all" pass in the directory.
